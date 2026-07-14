@@ -76,4 +76,4 @@ Phase 7: Firmware
 Phase 8: Body Design
 * Design own, and make a replica of a nice one
 
-  
+I will also be putting this under ProjectPLan.md, but in case this changes I will also store it here.
