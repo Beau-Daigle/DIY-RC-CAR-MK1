@@ -80,4 +80,4 @@ I will also be putting this under ProjectPLan.md, but in case this changes I wil
 With a bit of calculations, I determined that in order for a 25 MPH max speed, I need about 18,000 RPM from the motor with a 125mm diameter wheel. Buying a 20,000 RPM motor may grant me some more speed, or smaller wheel size in the future.
 Upon further inspection a LiPo 3S would be a suitable power supply. Only problem would be the current, so I should be weary of that in the future.
 
-The next step to work on should be the transmission, differential, then chassis
+The next step to work on should be the transmission, differential, then suspension.
