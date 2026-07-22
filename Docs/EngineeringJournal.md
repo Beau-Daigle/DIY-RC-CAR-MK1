@@ -81,3 +81,8 @@ With a bit of calculations, I determined that in order for a 25 MPH max speed, I
 Upon further inspection a LiPo 3S would be a suitable power supply. Only problem would be the current, so I should be weary of that in the future.
 
 The next step to work on should be the transmission, differential, then suspension.
+
+July 21-
+  Worked on differential based on assigned gear ratio of 8.4.
+  Made all the parts and put it into assembly. Will 3D print it soon to test to see if it also works IRL.
+  Next I will make a casing for the differential, then gear box that connects to the motor.
