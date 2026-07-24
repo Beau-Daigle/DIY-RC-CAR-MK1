@@ -82,7 +82,15 @@ Upon further inspection a LiPo 3S would be a suitable power supply. Only problem
 
 The next step to work on should be the transmission, differential, then suspension.
 
+
 July 21-
   Worked on differential based on assigned gear ratio of 8.4.
   Made all the parts and put it into assembly. Will 3D print it soon to test to see if it also works IRL.
   Next I will make a casing for the differential, then gear box that connects to the motor.
+
+
+
+July 24-
+  I quickly designed a temporary casing for the differential as a place holder for now. I realized that an 8.4:1 ratio may be a bit much, so I will try out a 5:1 ratio.
+  This means the 18,000 RPM motor speed will be reduced to 18,000 / 5 = 3,600 RPM, and a min torque of 5 * 1 = 5 NM
+  The Gearbox will be made as a two stage reduction gearbox. The first gear reduction will be 3:1, and the second will be 1.67:1.
